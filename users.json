@@ -1,0 +1,5 @@
+[
+    { "id": 1, "username": "rlewandowski", "firstname": "Robert", "lastname": "Lewandowski", "active": true, "admin": true },
+    { "id": 2, "username": "kpiatek", "firstname": "Krzysztof", "lastname": "Piątek", "active": false, "admin": false },
+    { "id": 3, "username": "wszczesny", "firstname": "Wojciech", "lastname": "Szczęsny", "active": true, "admin": false }
+  ]
