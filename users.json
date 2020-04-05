@@ -1,5 +1,50 @@
 [
-    { "id": 1, "username": "rlewandowski", "firstname": "Robert", "lastname": "Lewandowski", "active": true, "admin": true },
-    { "id": 2, "username": "kpiatek", "firstname": "Krzysztof", "lastname": "Piątek", "active": false, "admin": false },
-    { "id": 3, "username": "wszczesny", "firstname": "Wojciech", "lastname": "Szczęsny", "active": true, "admin": false }
-  ]
+    {
+        "id": 1,
+        "username": "rlewandowski",
+        "firstname": "Robert",
+        "lastname": "Lewandowski",
+        "active": true,
+        "admin": true
+    },
+    {
+        "id": 2,
+        "username": "kpiatek",
+        "firstname": "Krzysztof",
+        "lastname": "Piątek",
+        "active": false,
+        "admin": false
+    },
+    {
+        "id": 3,
+        "username": "wszczesny",
+        "firstname": "Wojciech",
+        "lastname": "Szczęsny",
+        "active": true,
+        "admin": false
+    },
+    {
+        "id": 4,
+        "username": "amilik",
+        "firstname": "Arkadiusz",
+        "lastname": "Milik",
+        "active": false,
+        "admin": false
+    },
+    {
+        "id": 5,
+        "username": "kglik",
+        "firstname": "Kamil",
+        "lastname": "Glik",
+        "active": true,
+        "admin": false
+    },
+    {
+        "id": 6,
+        "username": "gkrychowiak",
+        "firstname": "Grzegorz",
+        "lastname": "Krychowiak",
+        "active": false,
+        "admin": true
+    }
+]
